@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\bin\Debug\SmsModem.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\obj\Debug\SmsModem.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\obj\Debug\SmsModem.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\obj\Debug\SmsModem.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\obj\Debug\SmsModem.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\bin\Debug\SmsModem.exe
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\bin\Debug\SmsModem.pdb
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\obj\Debug\SmsModem.exe
+c:\users\hp\documents\visual studio 2013\Projects\SmsModem\SmsModem\obj\Debug\SmsModem.pdb
